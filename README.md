@@ -1,6 +1,6 @@
 # K8s Essentials
 
-Contains tips/scripts/certification-related material I picked up while working on k8s - my contribution towards the community
+**....contains tips/scripts/certification-related material I picked up while working on k8s - my contribution towards the community**
 
 ![](https://cdn-media-1.freecodecamp.org/images/1*0ju9JOPACF90yXSi-s2gwQ.jpeg)
 
@@ -16,7 +16,6 @@ Contains tips/scripts/certification-related material I picked up while working o
 - [Table of Contents](#table-of-contents)
     - [Certification Related Info](#certification-related-info)
       - [CKAD](#ckad)
-        - [Resources](#resources)
         - [Bookmarks](#bookmarks)
     - [Kubernetes Architecture](#kubernetes-architecture)
       - [Control Plane Components](#control-plane-components)
@@ -72,11 +71,9 @@ Contains tips/scripts/certification-related material I picked up while working o
 
 #### CKAD
 
-##### Resources
-
 ##### Bookmarks 
 
-Following are the bookmarks of the official documentation. [Download Bookmarks.](content/ckad.html)
+Following are the bookmarks of the official documentation - [bookmarks.](content/ckad.html)
 They contain most of the basic templates/ docs needed for CKAD. Might save you a few minutes during the certification exam. :)
 
 
