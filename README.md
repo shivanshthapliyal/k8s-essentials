@@ -1,5 +1,7 @@
 # K8s Essentials
 
+Contains tips/scripts/certification-related material I picked up while working on k8s - my contribution towards the community
+
 ![](https://cdn-media-1.freecodecamp.org/images/1*0ju9JOPACF90yXSi-s2gwQ.jpeg)
 
 # Table of Contents
