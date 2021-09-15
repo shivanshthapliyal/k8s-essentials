@@ -7,7 +7,7 @@
 
 <!-- code_chunk_output -->
 <details>
-<summary>Want to jump around the documentation?</summary>
+<summary>Want to jump around the documentation? (Peek at the TOC)</summary>
 <br>
 
 - [K8s Essentials](#k8s-essentials)
