@@ -143,7 +143,7 @@ They contain most of the basic templates/ docs needed for CKAD. Might save you a
 ## Installation
 
 ### Docker
-You can also refer my docker-essentials gist here for other docker related commands: [gist/docker-essentials](https://gist.github.com/shivanshthapliyal/1abf664fbd39d36cd2c6115ea3f44f4c)
+You can also referthe docker-essentials gist for other docker related commands: [gist/docker-essentials](https://gist.github.com/shivanshthapliyal/1abf664fbd39d36cd2c6115ea3f44f4c)
 
 
 #### Ubuntu
