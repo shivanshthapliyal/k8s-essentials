@@ -4,6 +4,8 @@
 
 ![](https://cdn-media-1.freecodecamp.org/images/1*0ju9JOPACF90yXSi-s2gwQ.jpeg)
 
+---
+
 # Table of Contents
 <!-- @import "[TOC]" {cmd="toc" depthFrom=2 depthTo=5 orderedList=false} -->
 
@@ -66,6 +68,7 @@
 
 </details>
 
+---
 
 ### Certification Related Info
 
